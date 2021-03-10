@@ -11,3 +11,11 @@ A custom v2ray version 3 for Debian / Ubuntu Servers.
 ```
 wget https://raw.githubusercontent.com/johndesu090/Project-XRay/master/install.sh && chmod +x install.sh && ./install.sh
 ```
+
+## DONATIONS
+
+GCASH: 09206200840
+Remittance: John Ford Sangalang
+
+# For Questions and Support
+Facebook: https://www.facebook.com/johndesu090/
