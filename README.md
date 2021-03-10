@@ -16,5 +16,5 @@ wget https://raw.githubusercontent.com/johndesu090/Project-XRay/master/install.s
 GCASH: 09206200840
 Remittance: John Ford Sangalang
 
-# For Questions and Support
+### For Questions and Support
 Facebook: https://www.facebook.com/johndesu090/
