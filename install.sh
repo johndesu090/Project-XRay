@@ -226,7 +226,7 @@ chrony_install() {
 }
 
 dependency_install() {
-    ${INS} install wget curl unzip nginx net-tools git lsof ruby -y
+    ${INS} install wget curl unzip nginx net-tools jq git lsof ruby -y
 	gem install lolcat
 
     if [[ "${ID}" == "centos" ]]; then
