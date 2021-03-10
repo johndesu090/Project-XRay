@@ -1,6 +1,5 @@
 # Project XRay
-A custom v2ray version 3 for Debian / Ubuntu Servers.
-> Author JohnFordTV
+A custom V2ray Version 3 built for Debian / Ubuntu Servers.
 
 [![Logo](https://www.unex.com.tw/uploads/productsliders/5bda640e051c0.png)](https://github.com/johndesu090/fhs-install-v2ray)
 
