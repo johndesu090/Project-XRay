@@ -12,7 +12,7 @@
                 "id": "UUID",
                 "flow": "xtls-rprx-direct",
                 "level": 0,
-                "email": "me@idleleo.com"
+                "email": "admin@johnfordtv.tech"
             }],
             "decryption": "none",
             "fallbacks": [{
