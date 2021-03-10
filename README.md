@@ -5,7 +5,7 @@ A custom V2ray Version 3 built for Debian / Ubuntu Servers.
 
 > Bash script for installing XRay Core in operating systems such as Debian / Ubuntu that support systemd
 
-### Install V2ray with WebSocket
+### Installation
 
 ```
 wget https://raw.githubusercontent.com/johndesu090/Project-XRay/master/install.sh && chmod +x install.sh && ./install.sh
