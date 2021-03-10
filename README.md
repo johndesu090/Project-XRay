@@ -14,6 +14,7 @@ wget https://raw.githubusercontent.com/johndesu090/Project-XRay/master/install.s
 ## DONATIONS
 
 GCASH: 09206200840
+
 Remittance: John Ford Sangalang
 
 ### For Questions and Support
