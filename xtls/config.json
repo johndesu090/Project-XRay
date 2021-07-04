@@ -29,8 +29,8 @@
                     "http/1.1"
                 ],
                 "certificates": [{
-                    "certificateFile": "/etc/letsencrypt/live/MYDOMAIN/fullchain.pem",
-                    "keyFile": "/etc/letsencrypt/live/MYDOMAIN/privkey.pem"
+                    "certificateFile": "/data/xray.crt",
+                    "keyFile": "/data/xray.key"
                 }]
             }
         }
